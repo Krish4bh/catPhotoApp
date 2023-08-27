@@ -1,0 +1,103 @@
+.body {
+    background-color: sienna;
+    margin: 30px;
+}
+
+h1,
+h2 {
+    color: black;
+    text-align: center;
+    font-style: italic;
+}
+
+.menu {
+    background-color: burlywood;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+.logo {
+    display: block;
+    width: 30%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.est {
+    text-align: center;
+    margin-top: 0;
+
+}
+
+hr {
+    border-color: chocolate;
+    background-color: chocolate;
+    width: 90%;
+    border-width: 2px;
+}
+
+.coffee-hr {
+    width: 100px;
+    background-color: chocolate;
+    border-color: chocolate;
+}
+
+.desserts-hr {
+    width: 130px;
+}
+
+.item p {
+    display: inline-block;
+    font-size: 18px;
+
+}
+
+.flavor {
+    text-align: left;
+    width: 75%;
+}
+
+
+.price {
+    text-align: right;
+    width: 25%;
+}
+
+section {
+    margin: 200px;
+    margin-top: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-bottom: 10px;
+}
+
+/* Footer */
+
+footer {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.address {
+    font-size: auto;
+    font-style: italic;
+}
+
+a {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: aqua;
+}
+
+a:active {
+    color: aqua;
+}
